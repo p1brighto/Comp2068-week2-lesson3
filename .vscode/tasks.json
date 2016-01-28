@@ -4,6 +4,6 @@
     "command": "tsc",
 	"isShellCommand": true,
     "showOutput": "silent",
-    "args": ["HelloWorld.ts"],
+    "args": [],
     "problemMatcher": "$tsc"
 }

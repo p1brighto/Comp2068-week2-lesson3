@@ -8,5 +8,5 @@ var server:http.Server=http.createServer(function(req:http.ServerRequest,res:htt
 });
 
 server.listen(port,function(){
-        console.log("Server Strated...Listening on port: "+port);
+        console.log("Server Strated....Listening on port: "+port);
 });
